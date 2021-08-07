@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数据结构作业6.2", "数据结构作业6.2\数据结构作业6.2.vcxproj", "{EACACB86-393B-4224-82DC-F5361C3AC563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EACACB86-393B-4224-82DC-F5361C3AC563}.Debug|x64.ActiveCfg = Debug|x64
+		{EACACB86-393B-4224-82DC-F5361C3AC563}.Debug|x64.Build.0 = Debug|x64
+		{EACACB86-393B-4224-82DC-F5361C3AC563}.Debug|x86.ActiveCfg = Debug|Win32
+		{EACACB86-393B-4224-82DC-F5361C3AC563}.Debug|x86.Build.0 = Debug|Win32
+		{EACACB86-393B-4224-82DC-F5361C3AC563}.Release|x64.ActiveCfg = Release|x64
+		{EACACB86-393B-4224-82DC-F5361C3AC563}.Release|x64.Build.0 = Release|x64
+		{EACACB86-393B-4224-82DC-F5361C3AC563}.Release|x86.ActiveCfg = Release|Win32
+		{EACACB86-393B-4224-82DC-F5361C3AC563}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9120AD69-A772-4813-A383-DD2FB3C0CF80}
+	EndGlobalSection
+EndGlobal

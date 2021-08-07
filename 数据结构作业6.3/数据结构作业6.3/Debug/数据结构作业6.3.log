@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\code\code_vs\数据结构作业6.3\数据结构作业6.3\main.cpp(18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\code\code_vs\数据结构作业6.3\数据结构作业6.3\main.cpp(28): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  数据结构作业6.3.vcxproj -> D:\CODE\code_vs\数据结构作业6.3\Debug\数据结构作业6.3.exe
