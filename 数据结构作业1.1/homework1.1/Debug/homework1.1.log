@@ -1,0 +1,4 @@
+﻿  fib.cpp
+d:\code\code_vs\数据结构homework1.1\homework1.1\fib.cpp(65): warning C4244: “return”: 从“unsigned __int64”转换到“int”，可能丢失数据
+d:\code\code_vs\数据结构homework1.1\homework1.1\fib.cpp(68): warning C4244: “return”: 从“unsigned __int64”转换到“int”，可能丢失数据
+  homework1.1.vcxproj -> D:\CODE\code_vs\数据结构homework1.1\Debug\homework1.1.exe
