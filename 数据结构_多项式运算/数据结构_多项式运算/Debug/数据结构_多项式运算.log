@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\code\code_vs\数据结构_多项式运算\数据结构_多项式运算\main.cpp(121): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\code\code_vs\数据结构_多项式运算\数据结构_多项式运算\main.cpp(126): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\code\code_vs\数据结构_多项式运算\数据结构_多项式运算\main.cpp(132): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\code\code_vs\数据结构_多项式运算\数据结构_多项式运算\main.cpp(137): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  数据结构_多项式运算.vcxproj -> D:\CODE\code_vs\数据结构_多项式运算\Debug\数据结构_多项式运算.exe
