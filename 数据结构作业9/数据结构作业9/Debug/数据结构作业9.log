@@ -1,0 +1,10 @@
+﻿  main.cpp
+d:\code\code_vs\数据结构作业9\数据结构作业9\drbtree.h(27): warning C4005: “rb_is_red”: 宏重定义
+  d:\code\code_vs\数据结构作业9\数据结构作业9\rbtree.h(27): note: 参见“rb_is_red”的前一个定义
+d:\code\code_vs\数据结构作业9\数据结构作业9\drbtree.h(28): warning C4005: “rb_is_black”: 宏重定义
+  d:\code\code_vs\数据结构作业9\数据结构作业9\rbtree.h(28): note: 参见“rb_is_black”的前一个定义
+d:\code\code_vs\数据结构作业9\数据结构作业9\drbtree.h(29): warning C4005: “rb_set_black”: 宏重定义
+  d:\code\code_vs\数据结构作业9\数据结构作业9\rbtree.h(29): note: 参见“rb_set_black”的前一个定义
+d:\code\code_vs\数据结构作业9\数据结构作业9\drbtree.h(30): warning C4005: “rb_set_red”: 宏重定义
+  d:\code\code_vs\数据结构作业9\数据结构作业9\rbtree.h(30): note: 参见“rb_set_red”的前一个定义
+  数据结构作业9.vcxproj -> D:\CODE\code_vs\数据结构作业9\Debug\数据结构作业9.exe
